@@ -10,6 +10,6 @@ Projeto **realizado durante as aulas no bootcamp fullstack** do Instituto de Ges
 
 É possível buscar por nomes em tempo real na API de perfis. 
 
-  [https://search-opadilha.surge.sh](https://countries-opadilha.surge.sh)
+  [https://search-opadilha.surge.sh](https://search-opadilha.surge.sh)
 
 ![Apenas uma imagem mostrando a aplicação](https://i.ibb.co/LSjWvm5/image.png)
